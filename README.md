@@ -1,3 +1,8 @@
-# machine-learning-zc
+# machine-learning
 
-Hello world
+pip install jupyter numpy pandas scikit-learn seaborn
+
+jupyter notebook
+
+import pandas as pd
+import numpy as np
